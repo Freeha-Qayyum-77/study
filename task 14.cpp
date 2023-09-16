@@ -1,0 +1,20 @@
+#include <iostream>
+using namespace std;
+main()
+{
+ system("color F0");
+cout<<"    '.-                                "<<endl;
+cout<<"     ' .          ---'                "<<endl;
+cout<<"      '.'!-...-/'.-''                "<<endl;
+cout<<"       !         /     '            "<<endl;
+cout<<"       /()   () !    .' '-._        "<<endl;
+cout<<"      |) .    ()!   /   -.'         "<<endl;
+cout<<"       |  -.-      ,; '- <           "<<endl;
+cout<<"       ;.--        ,;|  > |           "<<endl;
+cout<<"      / ,      / ,   | .-' .-'        "<<endl;
+cout<<"     (-/      (-/ ,; | .<'            "<<endl;
+cout<<"       !      ,      ;-'             "<<endl;
+cout<<"        >     !     /               "<<endl;
+cout<<"       (__, -' '>.'                 "<<endl;
+cout<<"         (-,'                     "<<endl;
+}
